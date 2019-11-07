@@ -1,0 +1,3 @@
+[submodule "customFolder"]
+	path = customFolder
+	url = https://github.com/bogdan-largeanu/submodule1.git
